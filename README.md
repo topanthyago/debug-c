@@ -8,7 +8,7 @@ Isso impede que mensagens eventualmente sensíveis estejam presentes no produto 
 ## Intruções:
 Além de incluir a biblioteca, deverá ser incluido no seu código:
 ### Para depurar
-\# define DEBUG_C_ON 1
+\#define DEBUG_C_ON 1
 ### Para não depurar
 \#define DEBUG_C_ON 0
 
